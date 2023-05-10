@@ -25,7 +25,7 @@ h2 {
     cursor: pointer;
     font-size: 20px;
     border: none;
-    transition: padding-left 300ms, padding-right 300ms, margin-left 300ms, margin-right 300ms;
+    transition: padding-left 0.1s, padding-right 0.1s, margin-left 0.1s, margin-right 0.1s;
 }
 
 #n2 {
@@ -39,7 +39,7 @@ h2 {
     cursor: pointer;
     font-size: 20px;
     border: none;
-    transition: padding-left 300ms, padding-right 300ms, margin-left 300ms, margin-right 300ms;
+    transition: padding-left 0.1s, padding-right 0.1s, margin-left 0.1s, margin-right 0.1s;
     }
       
 #n3 {
@@ -53,7 +53,7 @@ h2 {
     cursor: pointer;
     font-size: 20px;
     border: none;
-    transition: padding-left 300ms, padding-right 300ms, margin-left 300ms, margin-right 300ms;  
+    transition: padding-left 0.1s, padding-right 0.1s, margin-left 0.1s, margin-right 0.1ms;  
    }
 
 /*Margin Effects*/
@@ -78,3 +78,4 @@ h2 {
     margin-left: 10px;
     margin-right: -10px;
 }
+
