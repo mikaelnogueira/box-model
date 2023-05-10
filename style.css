@@ -1,0 +1,30 @@
+:root {
+    --white: #fff;
+    --blue: #153f59;
+}
+/*Margin and Padding */
+
+h2 {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.margin-and-padding {
+    margin-left: 55px;
+    margin-top: 40px;
+}
+
+#n1 {
+ color: var(--white);
+ background-color: var(--blue);   
+}
+
+#n2 {
+    color: var(--white);
+    background-color: var(--blue);   
+   }
+   
+#n3 {
+    color: var(--white);
+    background-color: var(--blue);   
+   }
