@@ -7,24 +7,39 @@
 h2 {
     margin-left: 20px;
     margin-top: 20px;
+    font-size: 40px;
 }
 
 .margin-and-padding {
-    margin-left: 55px;
     margin-top: 40px;
 }
 
 #n1 {
- color: var(--white);
- background-color: var(--blue);   
+    margin-left: 20px;
+    color: var(--white);
+    background-color: var(--blue);   
+    cursor: pointer;
+    height: 35px;
+    width: 80px;
+    font-size: 20px;
 }
 
 #n2 {
+    margin-left: 40px;
     color: var(--white);
-    background-color: var(--blue);   
-   }
+    background-color: var(--blue);
+    cursor: pointer;
+    height: 35px;
+    width: 80px;
+    font-size: 20px;
+   }   
    
 #n3 {
+    margin-left: 40px;
     color: var(--white);
-    background-color: var(--blue);   
+    background-color: var(--blue);
+    cursor: pointer;
+    height: 35px;
+    width: 80px;
+    font-size: 20px;   
    }
