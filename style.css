@@ -16,30 +16,65 @@ h2 {
 
 #n1 {
     margin-left: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 6px;
+    padding-bottom: 6px;
     color: var(--white);
     background-color: var(--blue);   
     cursor: pointer;
-    height: 35px;
-    width: 80px;
     font-size: 20px;
+    border: none;
+    transition: padding-left 300ms, padding-right 300ms, margin-left 300ms, margin-right 300ms;
 }
 
 #n2 {
-    margin-left: 40px;
+    margin-left: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 6px;
+    padding-bottom: 6px;
     color: var(--white);
-    background-color: var(--blue);
+    background-color: var(--blue);   
     cursor: pointer;
-    height: 35px;
-    width: 80px;
     font-size: 20px;
-   }   
-   
+    border: none;
+    transition: padding-left 300ms, padding-right 300ms, margin-left 300ms, margin-right 300ms;
+    }
+      
 #n3 {
-    margin-left: 40px;
+    margin-left: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 6px;
+    padding-bottom: 6px;
     color: var(--white);
-    background-color: var(--blue);
+    background-color: var(--blue);   
     cursor: pointer;
-    height: 35px;
-    width: 80px;
-    font-size: 20px;   
+    font-size: 20px;
+    border: none;
+    transition: padding-left 300ms, padding-right 300ms, margin-left 300ms, margin-right 300ms;  
    }
+
+/*Margin Effects*/
+
+#n1:hover {
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 10px;
+    margin-right: -10px;
+}
+
+#n2:hover {
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 10px;
+    margin-right: -10px;
+}
+
+#n3:hover {
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 10px;
+    margin-right: -10px;
+}
