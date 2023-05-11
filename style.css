@@ -105,3 +105,8 @@ h2 {
 
 /*Shadow*/
 
+#shadow {
+    color: var(--white);
+    background-color: var(--blue);
+    cursor: pointer;
+}
