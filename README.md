@@ -15,7 +15,7 @@
 		<li>Clone the repository on your machine</li>
 		<li>Access the project directory via terminal</li>
 		<li>Open the index.html file in your browser</li>
-		<li>Or open the website by clicking <a href="https://mikaelnogueira.githubio/box-model/"><u>here</u></a>
+		<li>Or open the website by clicking <a href="mikaelnogueira.github.io/box-model/"><u>here</u></a>
 	</ol>
 	<h2>Technologies used:</h2>
 	<ul>
