@@ -106,7 +106,19 @@ h2 {
 /*Shadow*/
 
 #shadow {
+    border: none;
     color: var(--white);
     background-color: var(--blue);
+    margin-left: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;  
     cursor: pointer;
+}
+
+#shadow:active {
+    margin-top: -2px;
+    margin-left: 18px;
+    box-shadow: 2px 2px 0px  rgba(0, 0, 0, 0.493);
 }
